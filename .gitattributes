@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+import sys
+print("Your Current Python Version is:",sys.version)
